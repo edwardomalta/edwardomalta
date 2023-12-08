@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edwardomalta
-- 👀 I’m interested in writing, learning and programing --obviously. Also I love the artificial inteligence....
+- 👀 I’m interested in writing, learning and programing.
 - 🌱 I’m currently learning Python and Linux
 - 💞️ I’m looking to collaborate on ... I really don't know!
 - 📫 How to reach me: edwardomalta@gmail.com
